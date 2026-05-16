@@ -60,19 +60,19 @@ Brain tumor diagnosis requires precise segmentation and measurement. Traditional
 
 ---
 
-## 📸 Demo & Output
+## 📸 Project Images
 
-### Project Files & Directory
-![Project Files](docs/images/Project%20Files.JPG)
+### Project Files
+![Project Files](Project%20Files.JPG)
 
-### Project Structure Overview
-![Project Structure](docs/images/Project%20Structure.JPG)
+### Project Structure
+![Project Structure](Project%20Structure.JPG)
 
-### Output Sample — Segmentation & Heatmap
-![Output 01](docs/images/output01.JPG)
+### Output 1
+![Output 1](output01.JPG)
 
-### Output Sample — Clinical Report
-![Output 02](docs/images/output02.JPG)
+### Output 2
+![Output 2](output02.JPG)
 
 > **Note:** Place all screenshot images inside the `docs/images/` folder. If you keep them in the root directory, update the paths above to `![Project Files](Project%20Files.JPG)` (with `%20` for spaces, or rename files to remove spaces).
 
